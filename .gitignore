@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+resources/paper1.pdf
+resources/paper2.pdf
+resources/paper3.pdf
+resources/paper4.pdf
+resources/paper5.pdf
+resources/slides_curso_langchain.pdf
+resources/chroma_db/chroma.sqlite3
+resources/chroma_db/936f41ea-1d45-4419-8e89-069e204046d8/data_level0.bin
+resources/chroma_db/936f41ea-1d45-4419-8e89-069e204046d8/header.bin
+resources/chroma_db/936f41ea-1d45-4419-8e89-069e204046d8/length.bin
+resources/chroma_db/936f41ea-1d45-4419-8e89-069e204046d8/link_lists.bin
